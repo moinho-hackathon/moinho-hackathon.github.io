@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e70a253.chunk.css",
+    "main.js": "/static/js/main.0180595b.chunk.js",
+    "main.js.map": "/static/js/main.0180595b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1273403e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1273403e.js.map",
+    "static/js/2.e3c23cee.chunk.js": "/static/js/2.e3c23cee.chunk.js",
+    "static/js/2.e3c23cee.chunk.js.map": "/static/js/2.e3c23cee.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1e70a253.chunk.css.map": "/static/css/main.1e70a253.chunk.css.map",
+    "static/js/2.e3c23cee.chunk.js.LICENSE.txt": "/static/js/2.e3c23cee.chunk.js.LICENSE.txt",
+    "static/media/camping_1.93fac65b.jpeg": "/static/media/camping_1.93fac65b.jpeg",
+    "static/media/gdgjf.f0c2f20e.png": "/static/media/gdgjf.f0c2f20e.png",
+    "static/media/hackathonBanner.a05cc43e.jpeg": "/static/media/hackathonBanner.a05cc43e.jpeg",
+    "static/media/hackathonLogo.1eac098a.png": "/static/media/hackathonLogo.1eac098a.png",
+    "static/media/ham-c.8ab7632d.svg": "/static/media/ham-c.8ab7632d.svg",
+    "static/media/ham.a63ab4de.svg": "/static/media/ham.a63ab4de.svg",
+    "static/media/moinhoLogo.b35c6ea4.png": "/static/media/moinhoLogo.b35c6ea4.png",
+    "static/media/pattern4.d7089884.png": "/static/media/pattern4.d7089884.png",
+    "static/media/pjf.e2afca00.png": "/static/media/pjf.e2afca00.png",
+    "static/media/zero40.9846d106.png": "/static/media/zero40.9846d106.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1273403e.js",
+    "static/js/2.e3c23cee.chunk.js",
+    "static/css/main.1e70a253.chunk.css",
+    "static/js/main.0180595b.chunk.js"
+  ]
+}
